@@ -1,0 +1,10 @@
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.exe.config
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.exe
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.pdb
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.xml
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.Form1.resources
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.Resources.resources
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.vbproj.GenerateResource.Cache
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.exe
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.xml
+c:\Users\T~Kay\documents\visual studio 2012\Projects\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.pdb
